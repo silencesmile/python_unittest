@@ -1,0 +1,2 @@
+# python_unittest
+python的单元测试并将测试结果发送到指定邮箱
