@@ -1,0 +1,6 @@
+test_func :函数的单元测试
+
+server ：Python后端接口服务
+test_api ：接口的单元测试
+
+email_suit ：接口的单元测试，并测试完成后将结果以邮件形式自动发送到指定邮箱
